@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TheonlyqueenAC (she/her, X), a Queer, radical Witch and Infectious Diseases physician who has spent 15 years studying nearly every aspect of HIV and currently works in NYC and SF as a medical scientist and part of a team of medical scientists and researchers engaged working to improve the lives of People Living with HIV (PLWH) and People Who would benefit from PrEP (PHBP)
-- 👀 I’m interested in learning how to use data science and machine learning to help improve diversity in clinical trials and to create algorithms for AI to interact in nonjudgmental ways where humans have struggled for decades and created devistating stigma.
-- 🌱 I’m currently learning ...the basics.  MicroMasters MITx program
-- 💞️ I’m looking to collaborate, after learning about the specific ways Galit Alter and Regina Barzilay are utilizing ML to improve antibody development at CROI this year...anything they could possibly guide me on...
+- 👋 Hi, I’m @TheonlyqueenAC (aka A.C Demidont)(she/her, X), a Queer, radical Witch and Infectious Diseases physician, scientist and educator who has spent 15 years studying nearly every aspect of HIV prevention and treatment.  I work with a team of brilliant medical scientists and researchers engaged working to improving the Continuum of Care for People Living with HIV (PLWH) and People Who would benefit from PrEP (PHBP).
+- 👀 I’m interested in learning how to use data science and machine learning to help improve diversity in clinical trials, create algorithms for AI to  combat the devistating consequences stigma creates and let machines facilitate equitable Healthcare.  The time has come to let Mathematics End the HIV Epidemic, so I really hope we don't F*(& It Up, period 
+- 🌱 I’m currently learning ...the basics.  MIT Data Science and Statistic Masters Program, Class of 202_ (program is hard AF, just sayin')
+- 💞️ I’m looking to collaborate and learn specific ways we can enhance HIV Medicine and Research with ML/AI
 - 📫 How to reach me ... demiac203@pm.me
 
 <!---
