@@ -3,7 +3,7 @@
 - Blending quantum biology, AI/ML, and public health equity to rewrite the rules of science and healthcare.
 - Passionate about exploring quantum coherence in microtubules and driving ethical, cutting-edge solutions in clinical trials and global health.-
   
-- 📫 How to reach me ... conncect@nyudynamics.info or ac.demidont@outlook.com
+- 📫 How to reach me ... conncect@nyxdynamics.info or ac.demidont@outlook.com
 - 
 
 <!---
