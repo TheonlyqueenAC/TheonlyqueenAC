@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheonlyqueenAC (aka A.C Demidont)(she/her, X), a Queer, radical Witch and Infectious Diseases physician.
+- A.C 
 - Radical thinker, futurist, and scientific trickster.
 - Blending quantum biology, AI/ML, and public health equity to rewrite the rules of science and healthcare.
 - Passionate about exploring quantum coherence in microtubules and driving ethical, cutting-edge solutions in clinical trials and global health.-
